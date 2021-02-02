@@ -9,8 +9,8 @@ We recommended the following dependencies.
 * [TensorBoard](https://github.com/TeamHG-Memex/tensorboard_logger)
 
 ## Download data
-Download the dataset files. We use the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN). 
-Download the dataset files and pre-trained models. We use splits produced by [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/deepimagesent/). 
+Download the dataset files. We use the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN).   
+Download the dataset files and pre-trained models. We use splits produced by [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/deepimagesent/).   
 The precomputed image features of MS-COCO are from [here](https://github.com/peteanderson80/bottom-up-attention). The precomputed image features of Flickr30K are extracted from the raw Flickr30K images using the bottom-up attention model from [here](https://github.com/peteanderson80/bottom-up-attention). All the data needed for reproducing the experiments in the paper, including image features and vocabularies, can be downloaded from:
 ```
 wget https://scanproject.blob.core.windows.net/scan-data/data.zip
