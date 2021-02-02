@@ -1,6 +1,6 @@
 ## Intriduction
 This is Danamic Attention Network, source code of DMAN. It is built on top of the SCAN in PyTorch.
-
+![image01](https://user-images.githubusercontent.com/48584373/106551680-1abcaf00-6559-11eb-914d-d643f49d32b5.png)
 ## Requirements and Installation
 We recommended the following dependencies.
 * Python2.7
